@@ -2,6 +2,13 @@
 
 Based on [Brusselopole](http://www.brusselopole.be), Worldopole is an open source version of the website, allowing you to display in a nice way the data you have gathered of the Pokemon in your city such as Team Gym Battles, Pokemon nests and Pokéstops. This app is a base and will help you build your own version of Brusselopole with more data-visualisation! 
 
+
+Downloading stories ig is very simple by using [Stories IG](https://instastoriesdownload.com) . 
+Everyone can do it by following some very easy steps, and be sure your data are safe even you are logged in into instagram while using our website ! We don't use your profile to fetch the stories via instagram and we will never use.
+
+
+
+
 ## Requirements
 
 - PHP5+ 
